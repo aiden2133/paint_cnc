@@ -24,7 +24,7 @@ There are **three main components** of the codebase:
 - `syringe_stepper.py`: Controls paint dispensing motor.
 
 #### 🔧 Jog Control GUI:
-![Jog GUI](jog_gui.jpg)
+![Jog GUI](images/jog_gui.jpg)
 
 </details>
 
