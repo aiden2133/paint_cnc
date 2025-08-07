@@ -61,7 +61,7 @@ A simple GUI that allows users to draw their own artwork and convert it to G-cod
 - Export to G-code for painting.
 
 ####  Paint GUI Example:
-![Painting GUI](painting_gui.jpg)
+![Painting GUI](images/paint_gui.png)
 
 </details>
 
