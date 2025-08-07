@@ -1,6 +1,6 @@
 # Paint CNC
 
-Paint CNC is a Raspberry Pi-based CNC painting machine that sends G-code to an Arduino running GRBL. It combines image processing, stepper control, and drawing input to turn digital art into physical paint.
+Paint CNC is a Raspberry Pi-based CNC painting machine that sends G-code to an Arduino running GRBL. It combines image processing, stepper control, and drawing input to turn digital art into physical paint. To see more of physical build, check out my website: [aidenankrum.com](https://aidenankrum.com)
 
 ---
 
